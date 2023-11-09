@@ -1,0 +1,14 @@
+## PROJECT BASED INTERNSHIP ID/X PARTNERS "CREDIT RISK MODELING"
+
+### Goals
+This project is used to build model which can predict risk credit with the dataset is provided by lending company. 
+
+### Overview
+Credit risk adalah resiko yang harus ditanggung oleh seorang individu atau lembaga ketika memberikan pinjaman (biasanya dalam bentuk uang) ke individu
+atau pihak lain. Resiko ini berupa tidak bisa dibayarkannya pokok dan bunga pinjaman, sehinggamengakibatkan kerugian berikut:
+- Gangguan aliran kas (cash flow) sehingga modal kerja terganggu.
+- Meningkatkan biaya operasional untuk mengejar pembayaran tersebut (collection).
+Untuk memperkecil resiko kredit ini, tim data harus melakukan prediksi apakah peminjam termasuk bad loan atau good loan.
+Prediksi ini digunakan untuk menentukan jika peminjam termasuk good loan maka aplikasi pengajuan pinjaman baru diterima, sedangkan jika peminjam termasuk bad loan maka aplikasi pengajuan pinjaman baru ditolak.
+Untuk menyelesaikan permasalahan ini, dilakukan pemodelan dengan menggunakan Analisis Klasifikasi dengan Machine Learning.
+
